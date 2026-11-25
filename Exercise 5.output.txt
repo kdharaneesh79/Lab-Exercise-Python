@@ -1,0 +1,2 @@
+Enter a positive integer: 4
+4 is not a prime number.

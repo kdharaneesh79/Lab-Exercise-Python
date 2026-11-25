@@ -1,0 +1,21 @@
+Enter choice: 1
+Enter student name: dhanu
+Enter roll number: 022
+Enter marks: 99
+Student record saved.
+
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 2
+
+Roll No | Name | Marks
+022 | dhanu | 99
+
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 3
+Exiting.

@@ -1,0 +1,48 @@
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 1
+Enter book ID: 09
+Enter book title: dhanu the great
+Enter author name: dhanush
+Book added successfully.
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 2
+09 | dhanu the great | dhanush | Available
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 4
+Enter book ID to return: 09
+This book was not issued.
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 5
+Exiting library system.
+
+
+
+
+
+
+
+
+

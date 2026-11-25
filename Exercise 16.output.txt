@@ -1,0 +1,12 @@
+Press Enter to roll the dice, or type q to quit: 
+Dice 1: 6
+Dice 2: 1
+Total: 7
+
+Press Enter to roll the dice, or type q to quit: q
+Thanks for playing!
+
+
+
+
+

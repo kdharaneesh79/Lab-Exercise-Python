@@ -1,0 +1,18 @@
+Enter number of students: 3
+
+Student 1
+Enter student name: dhanu
+Enter marks out of 100: 99
+
+Student 2
+Enter student name: teju
+Enter marks out of 100: 87
+
+Student 3
+Enter student name: nethra
+Enter marks out of 100: 88
+
+--- Student Results ---
+dhanu - Marks: 99.0 - Grade: A+
+teju - Marks: 87.0 - Grade: A
+nethra - Marks: 88.0 - Grade: A

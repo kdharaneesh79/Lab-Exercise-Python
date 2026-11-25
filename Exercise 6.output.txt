@@ -1,0 +1,2 @@
+Enter a non-negative integer: 3
+Factorial of 3 is 6

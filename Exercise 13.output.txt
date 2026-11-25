@@ -1,0 +1,25 @@
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 1
+Enter employee ID: 19007
+Enter employee name: Nida fathima
+Enter hours worked: 10
+Enter hourly pay rate: 600
+Payroll record saved. Gross pay: 6000.0
+
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 2
+Employee ID | Name | Hours | Hourly Rate | Gross Pay
+19007 | Nida fathima | 10.0 | 600.0 | 6000.0
+
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 3
+Exiting payroll system.

@@ -1,0 +1,13 @@
+Enter a sentence: i am jain student
+
+Character frequencies:
+i : 2
+a : 2
+m : 1
+j : 1
+n : 2
+s : 1
+t : 2
+u : 1
+d : 1
+e : 1

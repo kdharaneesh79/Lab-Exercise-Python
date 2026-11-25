@@ -1,0 +1,5 @@
+Enter your guess: 88
+Too high! Try again.
+Enter your guess: 92
+Too high! Try again.
+Enter your guess: 

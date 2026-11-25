@@ -1,0 +1,16 @@
+
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 2
+No contacts found.
+
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 4
+Exiting contact book.

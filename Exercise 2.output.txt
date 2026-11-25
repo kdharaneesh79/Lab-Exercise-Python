@@ -1,0 +1,4 @@
+Enter first number: 2
+Enter operator (+, -, *, /): *
+Enter second number: 3
+Result: 6.0

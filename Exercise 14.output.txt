@@ -1,0 +1,54 @@
+Enter account holder name: Dhanush
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 1
+Enter deposit amount: 10000
+Deposit successful.
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 2
+Enter withdrawal amount: 2000
+Withdrawal successful.
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 3
+Account holder: Dhanush
+Current balance: 8000.0
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 3
+Account holder: Dhanush
+Current balance: 8000.0
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 4
+Thank you for using the bank system.
+
+
+
+
+
+
+
+
+

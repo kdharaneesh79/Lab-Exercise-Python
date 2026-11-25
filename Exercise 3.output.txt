@@ -1,0 +1,8 @@
+Choose a shape:
+1. Circle
+2. Rectangle
+3. Triangle
+Enter your choice (1-3): 2
+Enter length: 3
+Enter breadth: 2
+Area of rectangle: 6.0
